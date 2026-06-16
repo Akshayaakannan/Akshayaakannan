@@ -24,6 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayaakannan&show_icons=true&locale=en&layout=compact" alt="akshayaakannan" /></p>
 
+![Akshayaakannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshayaakannan&show_icons=true&theme=radium)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayaakannan&show_icons=true&locale=en" alt="akshayaakannan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayaakannan&" alt="akshayaakannan" /></p>
